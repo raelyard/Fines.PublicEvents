@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Fines.PublicEvents")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Events that serve as contracts for what is published by the Fines Subdomain")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Fines.PublicEvents")]
