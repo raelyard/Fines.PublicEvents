@@ -8,3 +8,4 @@ namespace MediaLoanLibrary.Fines.PublicEvents
         decimal FineAmount { get; set; }
     }
 }
+
